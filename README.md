@@ -1,16 +1,17 @@
-### Hi there 👋
+###Olá humano codador!  👋 ;
 
-<!--
-**HZN001/HZN001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Heitor, sou um paulista, amante de praticar esportes, estudar programação e viver hehehe. Tenho  alguns repositórios,
+aqui armazenados, afim de trocar informações?
 
-Here are some ideas to get you started:
+ 👨🏻‍💻  Portiólio [site](https://heitor-portifolio.netlify.app/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Para contato use meu [email](mailto:heitorsilvanascimento@hotmail.com).
+
+💕 Minha vibe atual é Front-end.
+
+😍 AMO uma troca de conhecimento;
+
+📘 Curso Gestão em tecnologia da informação 3 semestre.
+
+
+### NADA COMO UM DIA, APÓS O OUTRO DIA ! ;
