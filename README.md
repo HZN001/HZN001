@@ -1,9 +1,9 @@
-###Olá humano codador!  👋 ;
+### Olá humano codador!  👋 ;
 
 Meu nome é Heitor, sou um paulista, amante de praticar esportes, estudar programação e viver hehehe. Tenho  alguns repositórios,
 aqui armazenados, afim de trocar informações?
 
- 👨🏻‍💻  Portiólio [site](https://heitor-portifolio.netlify.app/).
+ 👨🏻‍💻  Portifólio [site](https://heitor-portifolio.netlify.app/)
 
 💬 Para contato use meu [email](mailto:heitorsilvanascimento@hotmail.com).
 
