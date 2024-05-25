@@ -3,8 +3,6 @@
 Meu nome é Heitor, sou um paulista, amante de praticar esportes, estudar programação e viver hehehe. Tenho  alguns repositórios,
 aqui armazenados, afim de trocar informações?
 
- 👨🏻‍💻  Portifólio [site](https://heitor-portifolio.netlify.app/)
-
 💬 Para contato use meu [email](mailto:heitorsilvanascimento@hotmail.com).
 
 💕 Minha vibe atual é Front-end.
