@@ -9,7 +9,6 @@ aqui armazenados, afim de trocar informações?
 
 😍 AMO uma troca de conhecimento;
 
-📘 Curso Gestão em tecnologia da informação 3 semestre.
-
+📘 Formado em Gestão de tecnologia da informação.
 
 ### NADA COMO UM DIA, APÓS O OUTRO DIA ! ;
